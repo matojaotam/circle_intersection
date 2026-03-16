@@ -1,4 +1,4 @@
-import signal_plot_ops
+from src.signal import signal_plot_ops
 
 path = "ekg_signal.txt"
 
